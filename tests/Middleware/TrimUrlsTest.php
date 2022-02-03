@@ -1,9 +1,9 @@
 <?php
 
-namespace RenatoMarinho\LaravelPageSpeed\Test\Middleware;
+namespace Codeat3\LaravelPageSpeed\Test\Middleware;
 
-use RenatoMarinho\LaravelPageSpeed\Middleware\TrimUrls;
-use RenatoMarinho\LaravelPageSpeed\Test\TestCase;
+use Codeat3\LaravelPageSpeed\Middleware\TrimUrls;
+use Codeat3\LaravelPageSpeed\Test\TestCase;
 
 class TrimUrlsTest extends TestCase
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace RenatoMarinho\LaravelPageSpeed\Entities;
+namespace Codeat3\LaravelPageSpeed\Entities;
 
 class HtmlSpecs
 {

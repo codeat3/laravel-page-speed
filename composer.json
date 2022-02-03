@@ -31,12 +31,12 @@
   },
   "autoload": {
     "psr-4": {
-      "RenatoMarinho\\LaravelPageSpeed\\": "src/"
+      "Codeat3\\LaravelPageSpeed\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "RenatoMarinho\\LaravelPageSpeed\\Test\\": "tests"
+      "Codeat3\\LaravelPageSpeed\\Test\\": "tests"
     }
   },
   "scripts": {
@@ -49,7 +49,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "RenatoMarinho\\LaravelPageSpeed\\ServiceProvider"
+        "Codeat3\\LaravelPageSpeed\\ServiceProvider"
       ]
     }
   }

@@ -1,9 +1,9 @@
 <?php
 
-namespace RenatoMarinho\LaravelPageSpeed\Test\Middleware;
+namespace Codeat3\LaravelPageSpeed\Test\Middleware;
 
-use RenatoMarinho\LaravelPageSpeed\Middleware\ElideAttributes;
-use RenatoMarinho\LaravelPageSpeed\Test\TestCase;
+use Codeat3\LaravelPageSpeed\Middleware\ElideAttributes;
+use Codeat3\LaravelPageSpeed\Test\TestCase;
 
 class ElideAttributesTest extends TestCase
 {

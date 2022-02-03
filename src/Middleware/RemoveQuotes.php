@@ -1,8 +1,8 @@
 <?php
 
-namespace RenatoMarinho\LaravelPageSpeed\Middleware;
+namespace Codeat3\LaravelPageSpeed\Middleware;
 
-use RenatoMarinho\LaravelPageSpeed\Entities\HtmlSpecs;
+use Codeat3\LaravelPageSpeed\Entities\HtmlSpecs;
 
 class RemoveQuotes extends PageSpeed
 {
