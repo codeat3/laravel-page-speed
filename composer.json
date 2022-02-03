@@ -1,5 +1,5 @@
 {
-  "name": "renatomarinho/laravel-page-speed",
+  "name": "codeat3/laravel-page-speed",
   "description": "Laravel Page Speed",
   "keywords": [
     "laravel",
@@ -13,15 +13,19 @@
     {
       "name": "Renato Marinho",
       "email": "renato.marinho@s2move.com"
-    }
+    },
+    {
+        "name": "Swapnil Sarwe",
+        "email": "swapnilsarwe@gmail.coms"
+      }
   ],
   "require": {
-    "php": "^8.0",
-    "illuminate/support": "^6.0 || ^7.0 || ^8.0 || ^9.0"
+    "php": "^7.4|^8.0",
+    "illuminate/support": "^6.0 || ^7.0 || ^8.0 || ^9.0 || ^10.0"
   },
   "require-dev": {
     "phpunit/phpunit": "^8.5 || ^9.0",
-    "orchestra/testbench": "^4.0 || ^5.0 || ^6.0 || ^7.0",
+    "orchestra/testbench": "^4.0 || ^5.0 || ^6.0 || ^7.0 || ^8.0",
     "squizlabs/php_codesniffer": "^3.6",
     "mockery/mockery": "^1.4"
   },
