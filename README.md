@@ -9,6 +9,8 @@
 <a href="https://packagist.org/packages/renatomarinho/laravel-page-speed"><img src="https://poser.pugx.org/renatomarinho/laravel-page-speed/license" alt="License"></a>
 </p>
 
+**This was a temporary fork until Laravel 9 support was added. The original repository is well maintained and this fork is not needed anymore.**
+
 # Laravel Page Speed
 
 Simple package to minify HTML output on demand which results in a 35%+ optimization. Laravel Page Speed was created by [Renato Marinho][link-author], and currently maintained by [João Roberto P. Borges][link-maintainer], [Lucas Mesquita Borges][link-maintainer-2] and [Renato Marinho][link-author].
