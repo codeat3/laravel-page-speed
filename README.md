@@ -2,7 +2,7 @@
     <img width="400" src="https://raw.githubusercontent.com/codeat3/laravel-page-speed/master/art/logo.png" alt="Laravel Page Speed logo" />
 </p>
 
-It's a temporary fork until the parent package is not upgraded to Laravel 9.
+**It's a temporary fork until the parent package is not upgraded to support Laravel 11. Kindly avoid using this until utmost necessity.**
 
 <p align="center">
 <a href="https://travis-ci.org/codeat3/laravel-page-speed"><img src="https://travis-ci.org/codeat3/laravel-page-speed.svg?branch=master" alt="Build Status"></a>
